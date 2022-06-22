@@ -1,0 +1,8 @@
+List of possible changes:
+
+A collection of 40 dialogue excerpts used for the thesis project.
+
+They come from:
+
+- ESF
+- BELC 
