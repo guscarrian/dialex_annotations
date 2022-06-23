@@ -6,3 +6,60 @@ They come from:
 
 - ESF
 - BELC 
+
+
+Possible changes
+
+- adding translations whenever they're not provided
+- convert annotations from different sources into the same format (dar el mismo formato a todos los extractos procedentes de distintas fuentes)
+- correcting spelling mistakes (i.e., 'tragetto' to traghetto')
+- some lines before and after the production problem takes places are included (although annotated as "-" since they let us see the beggining and end of the dialogue excerpt we are interested in.
+- adding a link to the entire dialogue transcripts from the BELC corpus.
+- the transcriptions are left 
+
+formalize the transcripts
+
+It should be noted that the dialogue transcriptions have been left as they appear in the corpus (which means that the text is written in lowercase), except for some grammatical corrections or additional translations when these were not present.
+
+Since most of the excerpts presented here come from the ESF corpus, the reference format we take for the dialogue transcripts will be the one used in the aformentioned corpus. That is to say, the transcriptions will be lowercased regardless if they 
+
+ 
+
+simple pausing (.), repetition [/]
+(..) --> longer pause
+
+Unintelligible words with an unclear phonetic shape should be transcribed as xxx.
+
+@s --> the @s indicates a switch to Spanish
+@q --> metalinguistic use
+[*] --> to mark replacement and error
+&- --> Filled pauses (&-ah, &-eh, &-er, &-ew, &-hm, &-mm,
+&-uh, &-uhm, and &-um)
+[-spa] --> Utterances that represent a switch to the second language are marked with precodes, as in [-spa] for a switch to Spanish.
+
+[+c] --> ???
+
+&=laugh --> simple events (&=belches &=hisses &=grunts &=whines
+&=coughs &=hums &=roars &=whistles
+&=cries &=laughs &=sneezes &=whimpers
+&=gasps &=moans &=sighs &=yawns
+&=groans &=mumbles &=sings &=yells
+&=growls &=pants &=squeals &=vocalizes)
+
+[=! laughs] --> paralinguistic material
+
++... --> to treat the fragment as a separate utterance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
