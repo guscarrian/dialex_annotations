@@ -85,6 +85,15 @@ Ex 22: line 116 --> ** I think it's "è seduto" instead, "settato" means set! --
 
 
 
+EX 19:
+Margaret says WOOD before the subject
+But we've modified to make so it can be annotated clearly.
+Explain why: subject says 'this' and margaret interrups him by providing the MW 'wood' and then the subject continues talking.
+Write the original here:
+
+
+When speakers' utterances overlap, it is marked with [>] an [<] in the transcripts and numbers (1) or (2) indicates the order in which the utterances were produced in the annotations.
+
 
 
 
