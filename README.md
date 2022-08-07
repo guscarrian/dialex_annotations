@@ -35,11 +35,13 @@ Note the following abbreviations:
 
 
 
-<sup>1</sup>: https://slabank.talkbank.org/access/Multiple/ESF/
-<sup>2</sup>: https://slabank.talkbank.org/access/English/BELC.html
-<sup>3</sup>: Evangeline Marlos Varonis and Susan Gass. 1985. Non-native/non-native conversations: A model for negotiation of meaning. Applied linguistics, 6(1):71–90.
+<sup>1</sup>https://slabank.talkbank.org/access/Multiple/ESF/
 
-<sup>4</sup>:Anastasia Bondarenko. 2019. Grounding of names in directory enquiries dialogue: a corpus study of listener feedback behaviour.
+<sup>2</sup>https://slabank.talkbank.org/access/English/BELC.html
 
-<sup>5</sup>: Jenny Myrendal. 2019. Negotiating meanings online: Disagreements about word meaning in discussion forum communication. Discourse Studies, 21(3):317–339.
+<sup>3</sup>Evangeline Marlos Varonis and Susan Gass. 1985. Non-native/non-native conversations: A model for negotiation of meaning. Applied linguistics, 6(1):71–90.
+
+<sup>4</sup>Anastasia Bondarenko. 2019. Grounding of names in directory enquiries dialogue: a corpus study of listener feedback behaviour.
+
+<sup>5</sup>Jenny Myrendal. 2019. Negotiating meanings online: Disagreements about word meaning in discussion forum communication. Discourse Studies, 21(3):317–339.
 
