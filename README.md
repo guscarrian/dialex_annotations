@@ -1,14 +1,14 @@
 # Annotated dialogue excerpts
 This repository contains a collection of 40 annotated dialogue excerpts for a thesis project. They are extracted from two different second language learner spoken corpora: 
 
-- ESF: European Science Foundation Second Language Databank
-- BELC: Barcelona English Language Corpus
+- ESF: European Science Foundation Second Language Databank<sup>1</sup>
+- BELC: Barcelona English Language Corpus<sup>2</sup>
 
 ## Format and possible changes
 It should be noted that, since the dialogue excerpts come from different corpora, there might be some differences when it comes to the transcription format. In order to formalize the transcripts, the ESF format will be used as reference since most of the excerpts comes from this corpus. That is to say, the transcriptions will be lowercased and additional non-verbal sounds such as laughter or pauses in speech will also be annotated. The original transcripts were not altered, except for speeling corrections (i.e., *'tragetto' --> 'traghetto') and the addition of English translations whenever they were not provided. 
 
 ## Taxonomy
-The dialogue extracts were manually annotated using a taxonomy of dialogue acts created for the purpouse of this work. It is based on previous related taxonomies (Varonis and Gass, 1985; Bondarenko, 2019; Myrendal, 2019). The table below shows the dialogue act annotation schema.
+The dialogue extracts were manually annotated using a taxonomy of dialogue acts created for the purpouse of this work. It is based on previous related taxonomies (Varonis and Gass, 1985; Bondarenko, 2019; Myrendal, 2019)<sup>3</sup>. The table below shows the dialogue act annotation schema.
 
 Note the following abbreviations:
 - S, S1, S2: speaker
@@ -30,5 +30,5 @@ Note the following abbreviations:
 | ProvDesL2 | SUB describes M in L2            | S: This thing you use for brushing your hair                |           
 | Rep       | INV  repeats M                   | L: Mobile phone  <br /> T: Mobile phone <--                 |           
 | Test      | SUB tries pronouncing M          | T: It’s called a sprinkling can. <br /> L: Sprinkling can. <-- |      
-| TestC     | SUB tries using M in context     | T: It’s called a sprinkling can. <br /> L: We took the sprinkling can to <br /> water the plants. <-- |           
+| TestC     | SUB tries using M in context     | T: It’s called a sprinkling can. <br /> L: We took the sprinkling can to water the plants. <-- |           
 | Ack    | S2 acknowledges previous <br /> utterance by S1 | S1: We went to the park on Friday. <br /> S2: mhm |   
