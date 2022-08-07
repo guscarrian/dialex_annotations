@@ -18,12 +18,13 @@ Note the following abbreviations:
 - L2: target language that learner is acquiring
 - M: word or phrase in L2 that learner is missing
 
-| Tag       | Description                                               | Example utterances                                                                                             |
-|-----------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| AskL1     | SUB asks for word using L1                                | S: ¿Cómo se llama? <What is the name?>  S: ¿Cómo es? <How is it?>                                              |
-| AskL2     | SUB asks for a word  using L2                             | S: What is the name?                                                                                           |
-|           |                                                           |                                                                                                                |
-| IndAskL1  | SUB indirectly asks for a word  using L1                  | S: no sé el nombre <I don’t know the name>  S: no sé cómo se dice <I don’t know how to say it>                 |
+| Tag       | Description                      | Example utterances                       |
+|-----------|----------------------------------|------------------------------------------|
+| AskL1     | SUB asks for word using L1       | S: ¿Cómo se llama? <What is the name?>   |
+|           |                                  | S: ¿Cómo es? <How is it?>                |
+| AskL2     | SUB asks for a word  using L2    | S: What is the name?                     |
+|           |                                                                             |
+| IndAskL1  | SUB indirectly asks for a word using L1                  | S: no sé el nombre <I don’t know the name>  S: no sé cómo se dice <I don’t know how to say it>                 |
 | IndAskL2  | SUB indirectly asks for a word  using L2                  | S: I don’t know what the name is.  S: I don’t remember how to say the word.                                    |
 | SearchL2  | SUB (unsuccessfully) searches for a  word or phrase in L2 | S: The price of food is... eer... is...  S: I only read books and... er...  S: We bought tomatoes and... mm... |
 | ProvL1    | SUB provides the L1 translation of M                      | S: ...mesa <table>  S: ...¿niña? <girl?>                                                                       |
