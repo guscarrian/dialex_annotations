@@ -22,4 +22,41 @@ Note the following abbreviations:
 | words              | transform to | keepUpperCase is false | keepUpperCase is true |  
 |--------------------|--------------|------------------------|-----------------------|  
 | "XML HTTP request" | pascalCase   | `XmlHttpRequest`       | `XMLHTTPRequest`      |  
-| "new customer ID"  | camelCase    | `newCustomerId`        | `newCustomerID`       |  
+| "new customer ID"  | camelCase    | `newCustomerId`        | `newCustomerID`       | 
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Tag</th>
+    <th class="tg-0pky">Description</th>
+    <th class="tg-0pky">Example utterances</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">AskL1</td>
+    <td class="tg-0pky">SUB asks for word using L1</td>
+    <td class="tg-0pky">S: ¿Cómo se llama? &lt;What is the name?&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">S: ¿Cómo es? &lt;How is it?&gt;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">AskL2</td>
+    <td class="tg-0pky">SUB asks for a word&nbsp;&nbsp;using L2</td>
+    <td class="tg-0pky">S: What is the name?</td>
+  </tr>
+</tbody>
+</table>
