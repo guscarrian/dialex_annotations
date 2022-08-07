@@ -1,16 +1,14 @@
-List of possible changes:
-
-There's also a video-demo / demo-video of the current state of the implementation (what it is able to handle rn)
-
-A collection of 40 dialogue excerpts used for the thesis project.
-
-They come from:
-
-- ESF
-- BELC 
+TITLE: Annotated dialogue excerpts
 
 
-Possible changes
+This repository contains a collection of 40 annotated dialogue excerpts for a thesis project. They are extracted from two different second language learner spoken corpora: 
+
+ESF: European Science Foundation Second Language Databank
+BELC: Barcelona English Language Corpus
+
+
+Format and possible changes
+It should be noted that, since the dialogue excerpts come from different corpora, there might be some differences when it comes to the transcription format. In order to formalize the transcripts, the ESF format will be used as reference since most of the excerpts comes from this corpus. That is to say, the transcriptions will be lowercased and additional non-verbal sounds such as laughter or pauses in speech will also be annotated. The original transcripts were not altered, except for speeling corrections (i.e., *'tragetto' --> 'traghetto') and the addition of English translations whenever they were not provided. 
 
 - adding translations whenever they're not provided
 - convert annotations from different sources into the same format (dar el mismo formato a todos los extractos procedentes de distintas fuentes)
@@ -19,6 +17,8 @@ Possible changes
 - adding a link to the entire dialogue transcripts from the BELC corpus.
 
 beware that sometimes the line number in the annotations here (extracted from SCORE) do not match the line number in the slabank page where the audios are provided!!
+
+
 
 
 
@@ -92,7 +92,7 @@ Explain why: subject says 'this' and margaret interrups him by providing the MW 
 Write the original here:
 
 
-When speakers' utterances overlap, it is marked with [>] an [<] in the transcripts and numbers (1) or (2) indicates the order in which the utterances were produced in the annotations.
+When speakers' utterances overlap, it is marked with [>] and [<] in the transcripts and numbers (1) or (2) indicates the order in which the utterances were produced in the annotations.
 
 
 
