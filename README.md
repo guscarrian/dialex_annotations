@@ -30,7 +30,7 @@ Note the following abbreviations:
 | SearchL2  | SUB (unsuccessfully) searches    | S: The price of food is... eer... is...            |
 |           | for a word or phrase in L2       | S: I only read books and... er...                  |
 |           |                                  | S: We bought tomatoes and... mm...                 |
-| ProvL1    | SUB provides the L1 translation  | S: ...mesa <table>                                 |
+| ProvL1    | SUB provides the L1 translation  | S: ...mesa <'table'>                               |
 |           | of M                             | S: ...¿niña? <girl?>                               |
 | ProvL2    | INV provides M in L2             | S: It’s called a table.                            |
 | ProvDesL2 | SUB describes M in L2            | S: This thing you use for brushing your hair       |
