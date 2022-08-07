@@ -19,13 +19,6 @@ Note the following abbreviations:
 - M: word or phrase in L2 that learner is missing
 
 
-| words              | transform to | keepUpperCase is false | keepUpperCase is true |  
-|--------------------|--------------|------------------------|-----------------------|  
-| "XML HTTP request" | pascalCase   | `XmlHttpRequest`       | `XMLHTTPRequest`      |  
-| "new customer ID"  | camelCase    | `newCustomerId`        | `newCustomerID`       | 
-
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -46,17 +39,64 @@ Note the following abbreviations:
   <tr>
     <td class="tg-0pky">AskL1</td>
     <td class="tg-0pky">SUB asks for word using L1</td>
-    <td class="tg-0pky">S: ¿Cómo se llama? &lt;What is the name?&gt;</td>
+    <td class="tg-0pky">S: ¿Cómo se llama? &lt;What is the name?&gt;<br><br><span style="font-weight:400;font-style:normal">S: ¿Cómo es? &lt;How is it?&gt;</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">S: ¿Cómo es? &lt;How is it?&gt;</td>
+    <td class="tg-0pky" rowspan="2">AskL2</td>
+    <td class="tg-0pky" rowspan="2">SUB asks for a word&nbsp;&nbsp;using L2</td>
+    <td class="tg-0pky" rowspan="2">S: What is the name?</td>
   </tr>
   <tr>
-    <td class="tg-0pky">AskL2</td>
-    <td class="tg-0pky">SUB asks for a word&nbsp;&nbsp;using L2</td>
-    <td class="tg-0pky">S: What is the name?</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">IndAskL1</td>
+    <td class="tg-0pky">SUB indirectly asks for a word&nbsp;&nbsp;using L1</td>
+    <td class="tg-0pky">S: no sé el nombre &lt;I don’t know the name&gt;<br><br><span style="font-weight:400;font-style:normal">S: no sé cómo se dice &lt;I don’t know how to say it&gt;</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">IndAskL2</td>
+    <td class="tg-0pky">SUB indirectly asks for a word&nbsp;&nbsp;using L2</td>
+    <td class="tg-0pky">S: I don’t know what the name is.<br><br><span style="font-weight:400;font-style:normal">S: I don’t remember how to say the word.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">SearchL2</td>
+    <td class="tg-0pky">SUB (unsuccessfully) searches for <span style="font-weight:400;font-style:normal">a </span><br><span style="font-weight:400;font-style:normal">word or phrase in L2</span></td>
+    <td class="tg-0pky">S: The price of food is... eer... is...<br><br><span style="font-weight:400;font-style:normal">S: I only read books and... er...</span><br><br><span style="font-weight:400;font-style:normal">S: We bought tomatoes and... mm...</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">ProvL1</td>
+    <td class="tg-0pky">SUB provides the L1 translation of M</td>
+    <td class="tg-0pky">S: ...mesa &lt;table&gt;<br><br><span style="font-weight:400;font-style:normal">S: ...¿niña? &lt;girl?&gt;</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">ProvL2</td>
+    <td class="tg-0pky">INV provides M in L2</td>
+    <td class="tg-0pky">S: It’s called a table.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">ProvDesL2</td>
+    <td class="tg-0pky">SUB describes M in L2</td>
+    <td class="tg-0pky">S: This thing you use for brushing your hair</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Rep</td>
+    <td class="tg-0pky">INV&nbsp;&nbsp;repeats M</td>
+    <td class="tg-0pky">L: Mobile phone<br><br><span style="font-weight:400;font-style:normal">T: Mobile phone &lt;--</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Test</td>
+    <td class="tg-0pky">SUB tries pronouncing M</td>
+    <td class="tg-0pky">T: It’s called a sprinkling can.<br><br><span style="font-weight:400;font-style:normal">L: Sprinkling can. &lt;--</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">TestC</td>
+    <td class="tg-0pky">SUB tries using M in context</td>
+    <td class="tg-0pky">T: It’s called a sprinkling can.<br><br><span style="font-weight:400;font-style:normal">L: We took the sprinkling can to water the plants. &lt;--</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ack</td>
+    <td class="tg-0pky">S2 acknowledges previous utterance by S1</td>
+    <td class="tg-0pky">S1: We went to the park on Friday.<br><br><span style="font-weight:400;font-style:normal">S2: mhm</span></td>
   </tr>
 </tbody>
 </table>
