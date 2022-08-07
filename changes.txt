@@ -102,7 +102,21 @@ When speakers' utterances overlap, it is marked with [>] and [<] in the transcri
 
 
 
+The target dialogue extracts were manually
+annotated using a taxonomy of dialogue acts that
+was created for the purpouse if this work but
+based on previous related taxonomies (Varonis and
+Gass, 1985; Bondarenko, 2019; Myrendal, 2019) 9 .
+Table 1 below shows a detailed description of the
+annotation tags that make up the taxonomy. We
+use the following abbreviations:
 
+S, S1, S2: speaker
+INV: Investigator (teacher)
+SUB: Subject (learner)
+L1: learner’s first language
+L2: target language that learner is acquiring
+M: word or phrase in L2 that learner is missing
 
 
 
