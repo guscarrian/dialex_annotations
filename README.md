@@ -18,19 +18,28 @@ Note the following abbreviations:
 - L2: target language that learner is acquiring
 - M: word or phrase in L2 that learner is missing
 
-| Tag       | Description                      | Example utterances                       |
-|-----------|----------------------------------|------------------------------------------|
-| AskL1     | SUB asks for word using L1       | S: ¿Cómo se llama? <What is the name?>   |
-|           |                                  | S: ¿Cómo es? <How is it?>                |
-| AskL2     | SUB asks for a word  using L2    | S: What is the name?                     |
-|           |                                                                             |
-| IndAskL1  | SUB indirectly asks for a word using L1                  | S: no sé el nombre <I don’t know the name>  S: no sé cómo se dice <I don’t know how to say it>                 |
-| IndAskL2  | SUB indirectly asks for a word  using L2                  | S: I don’t know what the name is.  S: I don’t remember how to say the word.                                    |
-| SearchL2  | SUB (unsuccessfully) searches for a  word or phrase in L2 | S: The price of food is... eer... is...  S: I only read books and... er...  S: We bought tomatoes and... mm... |
-| ProvL1    | SUB provides the L1 translation of M                      | S: ...mesa <table>  S: ...¿niña? <girl?>                                                                       |
-| ProvL2    | INV provides M in L2                                      | S: It’s called a table.                                                                                        |
-| ProvDesL2 | SUB describes M in L2                                     | S: This thing you use for brushing your hair                                                                   |
-| Rep       | INV  repeats M                                            | L: Mobile phone  T: Mobile phone <--                                                                           |
-| Test      | SUB tries pronouncing M                                   | T: It’s called a sprinkling can.  L: Sprinkling can. <--                                                       |
-| TestC     | SUB tries using M in context                              | T: It’s called a sprinkling can.  L: We took the sprinkling can to water the plants. <--                       |
-| Ack       | S2 acknowledges previous utterance by S1                  | S1: We went to the park on Friday.  S2: mhm                                                                    |
+| Tag       | Description                      | Example utterances                                 |
+|-----------|----------------------------------|----------------------------------------------------|
+| AskL1     | SUB asks for word using L1       | S: ¿Cómo se llama? <What is the name?>             |
+|           |                                  | S: ¿Cómo es? <How is it?>                          |
+| AskL2     | SUB asks for a word  using L2    | S: What is the name?                               |
+| IndAskL1  | SUB indirectly asks for a        | S: no sé el nombre <I don’t know the name>         |
+|           | word using L1                    | S: no sé cómo se dice <I don’t know how to say it> |
+| IndAskL2  | SUB indirectly asks for a        | S: I don’t know what the name is.                  |  
+|           | word using L2                    | S: I don’t remember how to say the word.           |
+| SearchL2  | SUB (unsuccessfully) searches    | S: The price of food is... eer... is...            |
+|           | for a word or phrase in L2       | S: I only read books and... er...                  |
+|           |                                  | S: We bought tomatoes and... mm...                 |
+| ProvL1    | SUB provides the L1 translation  | S: ...mesa <table>                                 |
+|           | of M                             | S: ...¿niña? <girl?>                               |
+| ProvL2    | INV provides M in L2             | S: It’s called a table.                            |
+| ProvDesL2 | SUB describes M in L2            | S: This thing you use for brushing your hair       |
+| Rep       | INV  repeats M                   | L: Mobile phone                                    |
+|           |                                  | T: Mobile phone <--                                |
+| Test      | SUB tries pronouncing M          | T: It’s called a sprinkling can.                   |
+|           |                                  | L: Sprinkling can. <--                             |
+| TestC     | SUB tries using M in context     | T: It’s called a sprinkling can.                   |
+|           |                                  | L: We took the sprinkling can to water             |
+|           |                                  |    the plants. <--                                 |
+| Ack       | S2 acknowledges previous         | S1: We went to the park on Friday.                 |
+|           | utterance by S1                  | S2: mhm                                            |
